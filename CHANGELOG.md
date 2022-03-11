@@ -14,3 +14,4 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+- Update eslint config. No material change to the package itself.
